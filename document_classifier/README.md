@@ -15,8 +15,8 @@ This project implements a multimodal classification pipeline using images and OC
 ### 1. Clone the Repository
 ```
 As per the shared mode 
-Github--> git clone url
-drive--> download and continue
+Github--> git clone https://github.com/kailash2058/Document_classifier.git
+drive--> [download and continue] (https://onedrive.live.com/?id=D04A3EF13CD09CE2%21s06b378c0e13f411e8d3c3b036f4bc11d&cid=D04A3EF13CD09CE2)
 ```
 
 ### 2. Create a virtual environment and activate it:
